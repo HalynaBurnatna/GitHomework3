@@ -6,4 +6,12 @@ public class HelloWorld {
         System.out.println("Hello World 4!");
         System.out.println("Hello World 5!");
     }
+
+    static void sum(){
+
+    }
+
+    static void difference(){
+
+    }
 }
